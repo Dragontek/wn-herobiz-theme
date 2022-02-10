@@ -1,0 +1,24 @@
+name: HeroBiz
+description: 'HeroBiz is a modern, clean, and lightweight Bootstrap business website template. It''s best suited for corporate and agency websites like software companies, digital agencies, consulting firms, financial advisors, accountants, investment firms, etc. You will easily find a stunning design that suits your needs.'
+author: BootStrapMade
+homepage: 'https://bootstrapmade.com/herobiz-bootstrap-business-template'
+code: herobiz
+
+form:
+    fields:
+        site_name:
+            label: Site name
+            comment: The website name as it should appear on the front-end
+            default: HeroBiz
+        site_theme:
+            label: Site theme
+            comment: The theme to use
+            default: blue
+            type: dropdown
+            options:
+                blue: Blue
+                green: Green
+                orange: Orange
+                purple: Purple
+                red: Red
+                pink: Pink
