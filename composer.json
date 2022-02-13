@@ -1,0 +1,23 @@
+{
+    "name": "dragontek/wn-herobiz-theme",
+    "type": "winter-plugin",
+    "description": "HeroBiz Winter CMS theme",
+    "keywords": ["winter", "cms", "herobiz", "theme"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dragontek Software",
+            "url": "https://dragontek.com",
+            "role": "Maintainer"
+        },
+      {
+            "name": "BoostrapMade",
+            "url": "https://bootstrapmade.com",
+            "role": "Original Author"        
+      }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "composer/installers": "~1.0"
+    }
+}
